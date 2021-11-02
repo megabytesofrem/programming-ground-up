@@ -18,10 +18,10 @@ It is also known as the Fetch Execute Decode cycle
 ## Know the Concepts
 - **Q: What is a register?**
 A register is small memory cell in a CPU that stores a value. Registers are very fast to access, but there is very small amount of storage. They are used as scratchpads to store some values for eg math calculations.
-<br>
+
 - **Q: How do you represent numbers larger than 255?**
 By carrying and using more than one byte to represent a single number.
-<br>
+
 - **Q: How big are the registers on the machines?**
 The registers on the machines we will be using are 32 bits (4 bytes) in size.
 
